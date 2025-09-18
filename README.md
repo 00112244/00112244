@@ -54,7 +54,7 @@ I believe in **learning by building**. Here are some highlights of my journey so
 ## 🤝 Let’s Connect  
 I’m always open to collaborating on cybersecurity projects, discussing SOC workflows, or exploring forensic analysis challenges.  
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/t-hariharan/)  
+- **LinkedIn:** [Hariharan T](https://www.linkedin.com/in/t-hariharan/)  
 - **GitHub:** [github.com/00112244](https://github.com/00112244)  
 
 ---
